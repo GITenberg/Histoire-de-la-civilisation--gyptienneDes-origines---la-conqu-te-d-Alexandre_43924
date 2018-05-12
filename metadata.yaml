@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '42479'
     url: http://www.gutenberg.org/2009/agents/42479
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43924#Histoire-de-la-civilisation--gyptienneDes-origines---la-conqu-te-d-Alexandre
 gutenberg_bookshelf:
 - FR Histoire
 - FR Voyages et pays
