@@ -1,0 +1,34 @@
+_repo: Histoire-de-la-civilisation--gyptienneDes-origines---la-conqu-te-d-Alexandre_43924
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43924-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Jéquier, Gustave
+    aliases:
+    - Jéquier, G. (Gustave)
+    - Jequier, Gustave
+    birthdate: 1868
+    deathdate: 1946
+    gutenberg_agent_id: '42479'
+    url: http://www.gutenberg.org/2009/agents/42479
+description: ''
+gutenberg_bookshelf:
+- FR Histoire
+- FR Voyages et pays
+gutenberg_issued: '2013-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43924'
+  lccn: '84204054'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Egypt -- Antiquities'
+- !lcsh 'Egypt -- Civilization -- To 332 B.C.'
+title: Histoire de la civilisation égyptienne des origines à la conquête d'Alexandre
+url: http://www.gutenberg.org/ebooks/43924
